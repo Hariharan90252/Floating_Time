@@ -2,8 +2,7 @@
 
 A simple, elegant, and always-on-top desktop clock application created with Java Swing. It provides a clean, transparent, and movable digital clock that stays visible over all other windows.
 
-![image](https://user-images.githubusercontent.com/12345/your-image-link-here.png)  
-*(A screenshot of the floating clock on a desktop would go here)*
+![image](https://github.com/Hariharan90252/Floating_Time/issues/1#issue-4192016643) 
 
 ## Features
 
